@@ -28,6 +28,9 @@ on property:ro.boot.prjname=*
 on property:ro.boot.prjname=22811
     setprop persist.vendor.display.pxlw.iris_feature 0x407f0780
 
+on property:ro.boot.prjname=22851
+    setprop persist.vendor.display.pxlw.iris_feature 0x41ff0780
+
 on property:ro.boot.prjname=22861
     setprop persist.vendor.display.pxlw.iris_feature 0x400080
 
